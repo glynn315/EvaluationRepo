@@ -1,0 +1,35 @@
+body
+{
+    background-color:#c6ae96 ;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.logCon
+{
+    background-color:#011844 ;
+    display: block;
+    margin: auto;
+    width: 40%;
+    padding: 50px;
+    color:#FFF;
+    margin-top: 50px;
+    box-shadow: 2px 2px 5px 5px #01184441;
+    border-radius: 10px;
+}
+
+.imgHeader
+{
+    display: block;
+    width: 10%;
+    margin: auto;
+    margin-top: 20px;
+}
+.btn
+{
+    background-color: #c6ae96;
+    height: 50px;
+}
+.btn:hover{
+    background-color: #c6ae96d5;
+    color:#000;
+}

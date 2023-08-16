@@ -1,0 +1,18 @@
+.header-Img
+{
+    width: 20%;
+    padding-top: 20px;
+}
+a.nav-link
+{
+    color: #000;
+}
+.nav .headerNav
+{
+    background-color: rgb(21, 108, 184);
+    border: 1px solid black; 
+}
+*
+{
+    font-family: 'Ubuntu', sans-serif;
+}
